@@ -3,6 +3,7 @@
 ## 📌 Project Overview
 
 This project is a Retrieval-Augmented Generation (RAG) application built using LangChain. It allows users to ask questions about a YouTube video's transcript. The application retrieves the most relevant transcript chunks using semantic search and generates accurate answers with a Large Language Model (LLM).
+*This is my First Gen AI project*
 
 ---
 
